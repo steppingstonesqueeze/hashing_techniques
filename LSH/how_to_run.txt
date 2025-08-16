@@ -1,0 +1,2 @@
+Rscript scripts/run_series_B.R --method pstable --dataset iso_gauss --n 4000 --D 256 --w 0.5,1.0,2.0 --k_tuple 2 --L_tables 10 --pairs 80000 --queries 200 --knn_k 10
+
